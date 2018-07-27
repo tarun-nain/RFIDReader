@@ -1,0 +1,1 @@
+include ':app', ':nxpnfcandroidlib-1.4'
