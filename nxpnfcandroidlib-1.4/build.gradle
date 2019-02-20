@@ -1,2 +1,0 @@
-configurations.maybeCreate("default")
-artifacts.add("default", file('nxpnfcandroidlib-1.4.aar'))
